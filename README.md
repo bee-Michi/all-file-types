@@ -9,6 +9,7 @@ THese use vscode
     - C++
     - C#
     - Objective-C
+- Elixir
 - F#
 - Haskell
 - Html
@@ -17,6 +18,7 @@ THese use vscode
     - Ts
     - Frameworks
 - Matlab
+- Package
 - Pascal
 - Perl family:
     - Perl
@@ -28,4 +30,6 @@ THese use vscode
 - Random
 - Ruby
 - Rust
+- Scala
+- Swift
 - Word
