@@ -9,13 +9,22 @@ THese use vscode
     - C++
     - C#
     - Objective-C
+- F#
 - Html
 - Js family:
     - Js
     - Ts
     - Frameworks
+- Matlab
+- Pascal
 - Perl family:
     - Perl
     - Raku
+- Powerpoint
+- Powershell
 - Python
+- R
+- Random
 - Ruby
+- Rust
+- Word
