@@ -10,6 +10,7 @@ THese use vscode
     - C#
     - Objective-C
 - F#
+- Haskell
 - Html
 - Js family:
     - Js
