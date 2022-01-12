@@ -2,6 +2,7 @@
 
 THese use vscode
 
+- Ada
 - Assembely
 - C family:
     - C
@@ -9,6 +10,12 @@ THese use vscode
     - C#
     - Objective-C
 - Html
-- Perl
+- Js family:
+    - Js
+    - Ts
+    - Frameworks
+- Perl family:
+    - Perl
+    - Raku
 - Python
 - Ruby
